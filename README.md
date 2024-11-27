@@ -5,7 +5,7 @@ This project is a Frontend-based Generative AI Chatbot built with React.js, util
 
 ## Site
 Open the application in your browser:
-Visit **https://generative-ai-chatboat.netlify.app**
+Visit  **https://generative-ai-chatboat.netlify.app**
 
 ## Features
 - **AI-Powered Chat**: Generates meaningful responses using the Gemini API.
